@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Random with kotlin</string>
+    <string name="here_the_random">Here is a random number between 0 and %1d.</string>
+    <string name="r">R</string>
+</resources>
